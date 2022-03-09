@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to bottom right, blue, green);
+    height: 100vh;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+#body1 {
+    background-image:url("SaraDRoosevelt.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
